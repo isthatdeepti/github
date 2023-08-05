@@ -2,6 +2,6 @@
 int main(){
     printf("Hello cookie!");
     printf("hello");
-    printf("excuse");
+    printf("ABC");
     return 0;
 }
